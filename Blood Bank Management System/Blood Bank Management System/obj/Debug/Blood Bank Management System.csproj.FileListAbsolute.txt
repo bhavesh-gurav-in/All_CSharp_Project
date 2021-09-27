@@ -1,0 +1,63 @@
+F:\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe.config
+F:\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe
+F:\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.pdb
+F:\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csprojResolveAssemblyReference.cache
+F:\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Properties.Resources.resources
+F:\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.GenerateResource.Cache
+F:\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.exe
+F:\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.pdb
+F:\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Main.resources
+F:\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.New_Patient.resources
+F:\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Doner_Registration.resources
+F:\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Doner_Report.resources
+F:\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Stock_Entry_From.resources
+F:\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Contact_us.resources
+F:\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Empoloyee_Report.resources
+F:\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Employee_From.resources
+F:\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Blood_Report.resources
+F:\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Doner_rpt.resources
+F:\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Employee_rpt.resources
+F:\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Patient_rpt.resources
+F:\Blood Bank Management System\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Login.resources
+F:\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe.config
+F:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.exe
+F:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.pdb
+F:\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe
+F:\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.pdb
+F:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csprojResolveAssemblyReference.cache
+F:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Blood_Report.resources
+F:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Contact_us.resources
+F:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Doner_Registration.resources
+F:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Doner_Report.resources
+F:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Doner_rpt.resources
+F:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Empoloyee_Report.resources
+F:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Employee_rpt.resources
+F:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Employee_From.resources
+F:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Login.resources
+F:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Main.resources
+F:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.New_Patient.resources
+F:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Patient_rpt.resources
+F:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Properties.Resources.resources
+F:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Stock_Entry_From.resources
+F:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.GenerateResource.Cache
+D:\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe.config
+D:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.exe
+D:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.pdb
+D:\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.exe
+D:\Blood Bank Management System\Blood Bank Management System\bin\Debug\Blood Bank Management System.pdb
+D:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csprojResolveAssemblyReference.cache
+D:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Blood_Report.resources
+D:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Contact_us.resources
+D:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Doner_Registration.resources
+D:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Doner_Report.resources
+D:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Doner_rpt.resources
+D:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Empoloyee_Report.resources
+D:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Employee_rpt.resources
+D:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Employee_From.resources
+D:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Login.resources
+D:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Main.resources
+D:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.New_Patient.resources
+D:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Patient_rpt.resources
+D:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Properties.Resources.resources
+D:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood_Bank_Management_System.Stock_Entry_From.resources
+D:\Blood Bank Management System\Blood Bank Management System\obj\Debug\Blood Bank Management System.csproj.GenerateResource.Cache

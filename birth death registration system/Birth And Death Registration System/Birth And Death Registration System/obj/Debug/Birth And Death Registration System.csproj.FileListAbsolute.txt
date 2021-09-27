@@ -1,0 +1,41 @@
+D:\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\bin\Debug\Birth And Death Registration System.exe.config
+D:\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth And Death Registration System.csprojResolveAssemblyReference.cache
+D:\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth_And_Death_Registration_System.birthform.resources
+D:\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth_And_Death_Registration_System.birthrc.resources
+D:\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth_And_Death_Registration_System.birthreport.resources
+D:\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth_And_Death_Registration_System.deathform.resources
+D:\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth_And_Death_Registration_System.deathrc.resources
+D:\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth_And_Death_Registration_System.deathreport.resources
+D:\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth_And_Death_Registration_System.feesbook.resources
+D:\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth_And_Death_Registration_System.feesReport.resources
+D:\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth_And_Death_Registration_System.Form1.resources
+D:\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth_And_Death_Registration_System.Main.resources
+D:\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth_And_Death_Registration_System.Properties.Resources.resources
+D:\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth_And_Death_Registration_System.security.resources
+D:\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth And Death Registration System.csproj.GenerateResource.Cache
+D:\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\bin\Debug\Database.mdb
+D:\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\bin\Debug\Birth And Death Registration System.exe
+D:\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\bin\Debug\Birth And Death Registration System.pdb
+D:\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth And Death Registration System.exe
+D:\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth And Death Registration System.pdb
+D:\pendrive\Comlete Project\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\bin\Debug\Birth And Death Registration System.exe.config
+D:\pendrive\Comlete Project\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth And Death Registration System.exe
+D:\pendrive\Comlete Project\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth And Death Registration System.pdb
+D:\pendrive\Comlete Project\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\bin\Debug\Database.mdb
+D:\pendrive\Comlete Project\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\bin\Debug\Birth And Death Registration System.exe
+D:\pendrive\Comlete Project\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\bin\Debug\Birth And Death Registration System.pdb
+D:\pendrive\Comlete Project\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth And Death Registration System.csprojResolveAssemblyReference.cache
+D:\pendrive\Comlete Project\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth_And_Death_Registration_System.aboutus.resources
+D:\pendrive\Comlete Project\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth_And_Death_Registration_System.birthform.resources
+D:\pendrive\Comlete Project\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth_And_Death_Registration_System.birthrc.resources
+D:\pendrive\Comlete Project\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth_And_Death_Registration_System.birthreport.resources
+D:\pendrive\Comlete Project\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth_And_Death_Registration_System.deathform.resources
+D:\pendrive\Comlete Project\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth_And_Death_Registration_System.deathrc.resources
+D:\pendrive\Comlete Project\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth_And_Death_Registration_System.deathreport.resources
+D:\pendrive\Comlete Project\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth_And_Death_Registration_System.feesbook.resources
+D:\pendrive\Comlete Project\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth_And_Death_Registration_System.feesReport.resources
+D:\pendrive\Comlete Project\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth_And_Death_Registration_System.Form1.resources
+D:\pendrive\Comlete Project\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth_And_Death_Registration_System.Main.resources
+D:\pendrive\Comlete Project\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth_And_Death_Registration_System.Properties.Resources.resources
+D:\pendrive\Comlete Project\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth_And_Death_Registration_System.security.resources
+D:\pendrive\Comlete Project\yogeshnikam\Birth And Death Registration System\Birth And Death Registration System\obj\Debug\Birth And Death Registration System.csproj.GenerateResource.Cache

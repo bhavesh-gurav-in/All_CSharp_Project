@@ -1,0 +1,21 @@
+D:\Piyush\Sport management system\Sport management system\bin\Debug\Sport management system.exe.config
+D:\Piyush\Sport management system\Sport management system\bin\Debug\Sport management system.exe
+D:\Piyush\Sport management system\Sport management system\bin\Debug\Sport management system.pdb
+D:\Piyush\Sport management system\Sport management system\obj\Debug\Sport management system.csprojResolveAssemblyReference.cache
+D:\Piyush\Sport management system\Sport management system\obj\Debug\Sport_management_system.ChangePassword.resources
+D:\Piyush\Sport management system\Sport management system\obj\Debug\Sport_management_system.Customer.resources
+D:\Piyush\Sport management system\Sport management system\obj\Debug\Sport_management_system.Form1.resources
+D:\Piyush\Sport management system\Sport management system\obj\Debug\Sport_management_system.Main.resources
+D:\Piyush\Sport management system\Sport management system\obj\Debug\Sport_management_system.Order.resources
+D:\Piyush\Sport management system\Sport management system\obj\Debug\Sport_management_system.Product_Master.resources
+D:\Piyush\Sport management system\Sport management system\obj\Debug\Sport_management_system.Properties.Resources.resources
+D:\Piyush\Sport management system\Sport management system\obj\Debug\Sport_management_system.Purchase.resources
+D:\Piyush\Sport management system\Sport management system\obj\Debug\Sport_management_system.Sales.resources
+D:\Piyush\Sport management system\Sport management system\obj\Debug\Sport management system.csproj.GenerateResource.Cache
+D:\Piyush\Sport management system\Sport management system\obj\Debug\Sport management system.exe
+D:\Piyush\Sport management system\Sport management system\obj\Debug\Sport management system.pdb
+D:\Piyush\Sport management system\Sport management system\obj\Debug\Sport_management_system.About_Us.resources
+D:\Piyush\Sport management system\Sport management system\obj\Debug\Sport_management_system.Customerreport.resources
+D:\Piyush\Sport management system\Sport management system\obj\Debug\Sport_management_system.Customerrport.resources
+D:\Piyush\Sport management system\Sport management system\obj\Debug\Sport_management_system.Purchasereport.resources
+D:\Piyush\Sport management system\Sport management system\obj\Debug\Sport_management_system.Salesreport.resources

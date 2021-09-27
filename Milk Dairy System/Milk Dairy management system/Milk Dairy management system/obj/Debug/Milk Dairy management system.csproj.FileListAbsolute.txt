@@ -1,0 +1,22 @@
+D:\Rekha Charan\Milk Dairy management system\Milk Dairy management system\bin\Debug\Milk Dairy management system.exe.config
+D:\Rekha Charan\Milk Dairy management system\Milk Dairy management system\bin\Debug\Milk Dairy management system.exe
+D:\Rekha Charan\Milk Dairy management system\Milk Dairy management system\bin\Debug\Milk Dairy management system.pdb
+D:\Rekha Charan\Milk Dairy management system\Milk Dairy management system\obj\Debug\Milk Dairy management system.csprojResolveAssemblyReference.cache
+D:\Rekha Charan\Milk Dairy management system\Milk Dairy management system\obj\Debug\Milk_Dairy_management_system.Customer.resources
+D:\Rekha Charan\Milk Dairy management system\Milk Dairy management system\obj\Debug\Milk_Dairy_management_system.custreport.resources
+D:\Rekha Charan\Milk Dairy management system\Milk Dairy management system\obj\Debug\Milk_Dairy_management_system.Form1.resources
+D:\Rekha Charan\Milk Dairy management system\Milk Dairy management system\obj\Debug\Milk_Dairy_management_system.Main.resources
+D:\Rekha Charan\Milk Dairy management system\Milk Dairy management system\obj\Debug\Milk_Dairy_management_system.Milk.resources
+D:\Rekha Charan\Milk Dairy management system\Milk Dairy management system\obj\Debug\Milk_Dairy_management_system.milkreport.resources
+D:\Rekha Charan\Milk Dairy management system\Milk Dairy management system\obj\Debug\Milk_Dairy_management_system.Properties.Resources.resources
+D:\Rekha Charan\Milk Dairy management system\Milk Dairy management system\obj\Debug\Milk_Dairy_management_system.Rate.resources
+D:\Rekha Charan\Milk Dairy management system\Milk Dairy management system\obj\Debug\Milk_Dairy_management_system.ratereport.resources
+D:\Rekha Charan\Milk Dairy management system\Milk Dairy management system\obj\Debug\Milk Dairy management system.csproj.GenerateResource.Cache
+D:\Rekha Charan\Milk Dairy management system\Milk Dairy management system\obj\Debug\Milk Dairy management system.exe
+D:\Rekha Charan\Milk Dairy management system\Milk Dairy management system\obj\Debug\Milk Dairy management system.pdb
+D:\Rekha Charan\Milk Dairy management system\Milk Dairy management system\bin\Debug\Database.mdb
+D:\Rekha Charan\Milk Dairy management system\Milk Dairy management system\obj\Debug\Milk_Dairy_management_system.security.resources
+D:\Rekha Charan\Milk Dairy management system\Milk Dairy management system\obj\Debug\Milk_Dairy_management_system.about.resources
+D:\pendrive\Comlete Project\Rekha Charan\Milk Dairy management system\Milk Dairy management system\bin\Debug\Milk Dairy management system.exe.config
+D:\pendrive\Comlete Project\Rekha Charan\Milk Dairy management system\Milk Dairy management system\obj\Debug\Milk Dairy management system.exe
+D:\pendrive\Comlete Project\Rekha Charan\Milk Dairy management system\Milk Dairy management system\obj\Debug\Milk Dairy management system.pdb

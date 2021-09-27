@@ -1,0 +1,33 @@
+D:\ajaymali\Mess management system\Mess management system\bin\Debug\Mess management system.exe.config
+D:\ajaymali\Mess management system\Mess management system\obj\Debug\Mess_management_system.AboutUs.resources
+D:\ajaymali\Mess management system\Mess management system\obj\Debug\Mess_management_system.Bill_Info.resources
+D:\ajaymali\Mess management system\Mess management system\obj\Debug\Mess_management_system.Form1.resources
+D:\ajaymali\Mess management system\Mess management system\obj\Debug\Mess_management_system.Main.resources
+D:\ajaymali\Mess management system\Mess management system\obj\Debug\Mess_management_system.Properties.Resources.resources
+D:\ajaymali\Mess management system\Mess management system\obj\Debug\Mess_management_system.Registration.resources
+D:\ajaymali\Mess management system\Mess management system\obj\Debug\Mess management system.csproj.GenerateResource.Cache
+D:\ajaymali\Mess management system\Mess management system\bin\Debug\Mess management system.exe
+D:\ajaymali\Mess management system\Mess management system\bin\Debug\Mess management system.pdb
+D:\ajaymali\Mess management system\Mess management system\obj\Debug\Mess management system.exe
+D:\ajaymali\Mess management system\Mess management system\obj\Debug\Mess management system.pdb
+D:\ajaymali\Mess management system\Mess management system\obj\Debug\Mess management system.csprojResolveAssemblyReference.cache
+D:\ajaymali\Mess management system\Mess management system\obj\Debug\Mess_management_system.changepwd.resources
+D:\ajaymali\Mess management system\Mess management system\obj\Debug\Mess_management_system.billrep.resources
+D:\ajaymali\Mess management system\Mess management system\obj\Debug\Mess_management_system.custrep.resources
+D:\pendrive\Comlete Project\ajaymali\Mess management system\Mess management system\bin\Debug\Mess management system.exe.config
+D:\pendrive\Comlete Project\ajaymali\Mess management system\Mess management system\obj\Debug\Mess management system.exe
+D:\pendrive\Comlete Project\ajaymali\Mess management system\Mess management system\obj\Debug\Mess management system.pdb
+D:\Pendrive\pendrive\Comlete Project\ajaymali\Mess management system\Mess management system\bin\Debug\Mess management system.exe.config
+D:\Pendrive\pendrive\Comlete Project\ajaymali\Mess management system\Mess management system\obj\Debug\Mess management system.exe
+D:\Pendrive\pendrive\Comlete Project\ajaymali\Mess management system\Mess management system\obj\Debug\Mess management system.pdb
+D:\Pendrive\pendrive\Comlete Project\ajaymali\Mess management system\Mess management system\obj\Debug\Mess management system.csprojResolveAssemblyReference.cache
+D:\Pendrive\pendrive\Comlete Project\ajaymali\Mess management system\Mess management system\obj\Debug\Mess_management_system.AboutUs.resources
+D:\Pendrive\pendrive\Comlete Project\ajaymali\Mess management system\Mess management system\obj\Debug\Mess_management_system.Bill_Info.resources
+D:\Pendrive\pendrive\Comlete Project\ajaymali\Mess management system\Mess management system\obj\Debug\Mess_management_system.billrep.resources
+D:\Pendrive\pendrive\Comlete Project\ajaymali\Mess management system\Mess management system\obj\Debug\Mess_management_system.custrep.resources
+D:\Pendrive\pendrive\Comlete Project\ajaymali\Mess management system\Mess management system\obj\Debug\Mess_management_system.Form1.resources
+D:\Pendrive\pendrive\Comlete Project\ajaymali\Mess management system\Mess management system\obj\Debug\Mess_management_system.Main.resources
+D:\Pendrive\pendrive\Comlete Project\ajaymali\Mess management system\Mess management system\obj\Debug\Mess_management_system.Properties.Resources.resources
+D:\Pendrive\pendrive\Comlete Project\ajaymali\Mess management system\Mess management system\obj\Debug\Mess_management_system.Registration.resources
+D:\Pendrive\pendrive\Comlete Project\ajaymali\Mess management system\Mess management system\obj\Debug\Mess_management_system.changepwd.resources
+D:\Pendrive\pendrive\Comlete Project\ajaymali\Mess management system\Mess management system\obj\Debug\Mess management system.csproj.GenerateResource.Cache

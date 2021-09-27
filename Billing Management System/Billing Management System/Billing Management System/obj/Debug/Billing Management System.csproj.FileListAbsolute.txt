@@ -1,0 +1,13 @@
+D:\prajwalmarathe\Billing Management System\Billing Management System\bin\Debug\Billing Management System.exe.config
+D:\prajwalmarathe\Billing Management System\Billing Management System\bin\Debug\Database.mdb
+D:\prajwalmarathe\Billing Management System\Billing Management System\bin\Debug\Billing Management System.exe
+D:\prajwalmarathe\Billing Management System\Billing Management System\bin\Debug\Billing Management System.pdb
+D:\prajwalmarathe\Billing Management System\Billing Management System\obj\Debug\Billing Management System.csprojResolveAssemblyReference.cache
+D:\prajwalmarathe\Billing Management System\Billing Management System\obj\Debug\Billing_Management_System.bill.resources
+D:\prajwalmarathe\Billing Management System\Billing Management System\obj\Debug\Billing_Management_System.custinfo.resources
+D:\prajwalmarathe\Billing Management System\Billing Management System\obj\Debug\Billing_Management_System.Form1.resources
+D:\prajwalmarathe\Billing Management System\Billing Management System\obj\Debug\Billing_Management_System.Main.resources
+D:\prajwalmarathe\Billing Management System\Billing Management System\obj\Debug\Billing_Management_System.Properties.Resources.resources
+D:\prajwalmarathe\Billing Management System\Billing Management System\obj\Debug\Billing Management System.csproj.GenerateResource.Cache
+D:\prajwalmarathe\Billing Management System\Billing Management System\obj\Debug\Billing Management System.exe
+D:\prajwalmarathe\Billing Management System\Billing Management System\obj\Debug\Billing Management System.pdb

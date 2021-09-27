@@ -1,0 +1,22 @@
+D:\chetanproject\Gas Agency Management System\Gas Agency Management System\bin\Debug\Gas Agency Management System.exe.config
+D:\chetanproject\Gas Agency Management System\Gas Agency Management System\bin\Debug\Gas Agency Management System.exe
+D:\chetanproject\Gas Agency Management System\Gas Agency Management System\bin\Debug\Gas Agency Management System.pdb
+D:\chetanproject\Gas Agency Management System\Gas Agency Management System\obj\Debug\Gas Agency Management System.csprojResolveAssemblyReference.cache
+D:\chetanproject\Gas Agency Management System\Gas Agency Management System\obj\Debug\Gas_Agency_Management_System.Form1.resources
+D:\chetanproject\Gas Agency Management System\Gas Agency Management System\obj\Debug\Gas_Agency_Management_System.Main.resources
+D:\chetanproject\Gas Agency Management System\Gas Agency Management System\obj\Debug\Gas_Agency_Management_System.Properties.Resources.resources
+D:\chetanproject\Gas Agency Management System\Gas Agency Management System\obj\Debug\Gas Agency Management System.csproj.GenerateResource.Cache
+D:\chetanproject\Gas Agency Management System\Gas Agency Management System\obj\Debug\Gas Agency Management System.exe
+D:\chetanproject\Gas Agency Management System\Gas Agency Management System\obj\Debug\Gas Agency Management System.pdb
+D:\chetanproject\Gas Agency Management System\Gas Agency Management System\obj\Debug\Gas_Agency_Management_System.registrationForm.resources
+D:\chetanproject\Gas Agency Management System\Gas Agency Management System\obj\Debug\Gas_Agency_Management_System.booking.resources
+D:\chetanproject\Gas Agency Management System\Gas Agency Management System\obj\Debug\Gas_Agency_Management_System.cylinderdetails.resources
+D:\chetanproject\Gas Agency Management System\Gas Agency Management System\obj\Debug\Gas_Agency_Management_System.payform.resources
+D:\chetanproject\Gas Agency Management System\Gas Agency Management System\obj\Debug\Gas_Agency_Management_System.stock.resources
+D:\chetanproject\Gas Agency Management System\Gas Agency Management System\obj\Debug\Gas_Agency_Management_System.help.resources
+D:\chetanproject\Gas Agency Management System\Gas Agency Management System\bin\Debug\Database.mdb
+D:\chetanproject\Gas Agency Management System\Gas Agency Management System\obj\Debug\Gas_Agency_Management_System.bookcristal.resources
+D:\chetanproject\Gas Agency Management System\Gas Agency Management System\obj\Debug\Gas_Agency_Management_System.bookingreport.resources
+D:\chetanproject\Gas Agency Management System\Gas Agency Management System\obj\Debug\Gas_Agency_Management_System.paymentReport.resources
+D:\chetanproject\Gas Agency Management System\Gas Agency Management System\obj\Debug\Gas_Agency_Management_System.stockReport.resources
+D:\chetanproject\Gas Agency Management System\Gas Agency Management System\obj\Debug\Gas_Agency_Management_System.changepwd.resources

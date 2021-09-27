@@ -1,0 +1,25 @@
+D:\ravindramali\Bicycle Management System\Bicycle Management System\bin\Debug\Bicycle Management System.exe.config
+D:\ravindramali\Bicycle Management System\Bicycle Management System\bin\Debug\Database.mdb
+D:\ravindramali\Bicycle Management System\Bicycle Management System\bin\Debug\Bicycle Management System.exe
+D:\ravindramali\Bicycle Management System\Bicycle Management System\bin\Debug\Bicycle Management System.pdb
+D:\ravindramali\Bicycle Management System\Bicycle Management System\obj\Debug\Bicycle Management System.csprojResolveAssemblyReference.cache
+D:\ravindramali\Bicycle Management System\Bicycle Management System\obj\Debug\Bicycle_Management_System.Form1.resources
+D:\ravindramali\Bicycle Management System\Bicycle Management System\obj\Debug\Bicycle_Management_System.Main.resources
+D:\ravindramali\Bicycle Management System\Bicycle Management System\obj\Debug\Bicycle_Management_System.Properties.Resources.resources
+D:\ravindramali\Bicycle Management System\Bicycle Management System\obj\Debug\Bicycle Management System.csproj.GenerateResource.Cache
+D:\ravindramali\Bicycle Management System\Bicycle Management System\obj\Debug\Bicycle Management System.exe
+D:\ravindramali\Bicycle Management System\Bicycle Management System\obj\Debug\Bicycle Management System.pdb
+D:\ravindramali\Bicycle Management System\Bicycle Management System\obj\Debug\Bicycle_Management_System.customer.resources
+D:\ravindramali\Bicycle Management System\Bicycle Management System\obj\Debug\Bicycle_Management_System.purchase.resources
+D:\ravindramali\Bicycle Management System\Bicycle Management System\obj\Debug\Bicycle_Management_System.saleproduct.resources
+D:\ravindramali\Bicycle Management System\Bicycle Management System\obj\Debug\Bicycle_Management_System.addb.resources
+D:\ravindramali\Bicycle Management System\Bicycle Management System\obj\Debug\Bicycle_Management_System.custdetails.resources
+D:\ravindramali\Bicycle Management System\Bicycle Management System\obj\Debug\Bicycle_Management_System.purchasedetails.resources
+D:\ravindramali\Bicycle Management System\Bicycle Management System\obj\Debug\Bicycle_Management_System.supplier.resources
+D:\ravindramali\Bicycle Management System\Bicycle Management System\obj\Debug\Bicycle_Management_System.custreport.resources
+D:\ravindramali\Bicycle Management System\Bicycle Management System\obj\Debug\Bicycle_Management_System.purchasereport.resources
+D:\ravindramali\Bicycle Management System\Bicycle Management System\obj\Debug\Bicycle_Management_System.salereport.resources
+D:\ravindramali\Bicycle Management System\Bicycle Management System\obj\Debug\Bicycle_Management_System.changepassword.resources
+H:\Comlete Project\ravindramali\Bicycle Management System\Bicycle Management System\bin\Debug\Bicycle Management System.exe.config
+H:\Comlete Project\ravindramali\Bicycle Management System\Bicycle Management System\obj\Debug\Bicycle Management System.exe
+H:\Comlete Project\ravindramali\Bicycle Management System\Bicycle Management System\obj\Debug\Bicycle Management System.pdb

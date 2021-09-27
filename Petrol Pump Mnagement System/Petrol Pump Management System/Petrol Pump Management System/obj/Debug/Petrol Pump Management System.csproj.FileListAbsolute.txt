@@ -1,0 +1,38 @@
+D:\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\bin\Debug\Petrol Pump Management System.exe.config
+D:\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\bin\Debug\Petrol Pump Management System.exe
+D:\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\bin\Debug\Petrol Pump Management System.pdb
+D:\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\obj\Debug\Petrol Pump Management System.csprojResolveAssemblyReference.cache
+D:\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\obj\Debug\Petrol_Pump_Management_System.Form1.resources
+D:\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\obj\Debug\Petrol_Pump_Management_System.Properties.Resources.resources
+D:\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\obj\Debug\Petrol Pump Management System.csproj.GenerateResource.Cache
+D:\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\obj\Debug\Petrol Pump Management System.exe
+D:\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\obj\Debug\Petrol Pump Management System.pdb
+D:\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\obj\Debug\Petrol_Pump_Management_System.Main.resources
+D:\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\obj\Debug\Petrol_Pump_Management_System.Item_Details.resources
+D:\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\obj\Debug\Petrol_Pump_Management_System.Change_Password.resources
+D:\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\obj\Debug\Petrol_Pump_Management_System.Pump_Details.resources
+D:\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\obj\Debug\Petrol_Pump_Management_System.Purchase_Details.resources
+D:\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\obj\Debug\Petrol_Pump_Management_System.Sales_Details.resources
+G:\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\bin\Debug\Petrol Pump Management System.exe.config
+G:\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\obj\Debug\Petrol Pump Management System.exe
+G:\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\obj\Debug\Petrol Pump Management System.pdb
+G:\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\bin\Debug\Petrol Pump Management System.exe
+G:\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\bin\Debug\Petrol Pump Management System.pdb
+G:\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\obj\Debug\Petrol Pump Management System.csprojResolveAssemblyReference.cache
+G:\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\obj\Debug\Petrol_Pump_Management_System.Change_Password.resources
+G:\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\obj\Debug\Petrol_Pump_Management_System.Form1.resources
+G:\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\obj\Debug\Petrol_Pump_Management_System.Item_Details.resources
+G:\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\obj\Debug\Petrol_Pump_Management_System.Main.resources
+G:\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\obj\Debug\Petrol_Pump_Management_System.Order_Details.resources
+G:\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\obj\Debug\Petrol_Pump_Management_System.Properties.Resources.resources
+G:\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\obj\Debug\Petrol_Pump_Management_System.Pump_Details.resources
+G:\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\obj\Debug\Petrol_Pump_Management_System.Purchase_Details.resources
+G:\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\obj\Debug\Petrol_Pump_Management_System.Sales_Details.resources
+G:\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\obj\Debug\Petrol_Pump_Management_System.Stock_Details.resources
+G:\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\obj\Debug\Petrol Pump Management System.csproj.GenerateResource.Cache
+D:\pendrive\Projects\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\bin\Debug\Petrol Pump Management System.exe.config
+D:\pendrive\Projects\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\obj\Debug\Petrol Pump Management System.exe
+D:\pendrive\Projects\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\obj\Debug\Petrol Pump Management System.pdb
+D:\pendrive\Comlete Project\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\bin\Debug\Petrol Pump Management System.exe.config
+D:\pendrive\Comlete Project\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\obj\Debug\Petrol Pump Management System.exe
+D:\pendrive\Comlete Project\Petrol Pump Mnagement System\Petrol Pump Management System\Petrol Pump Management System\obj\Debug\Petrol Pump Management System.pdb

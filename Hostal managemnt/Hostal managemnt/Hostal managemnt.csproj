@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2D98F0B2-0CB9-45D8-B34A-5CD39D4F7320}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Hostal_managemnt</RootNamespace>
+    <AssemblyName>Hostal managemnt</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="addmission report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addmission report.Designer.cs">
+      <DependentUpon>addmission report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addmission.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>addmission.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Admissionreport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admissionreport.Designer.cs">
+      <DependentUpon>Admissionreport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="feeReport1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>feeReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="feereport2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="feereport2.Designer.cs">
+      <DependentUpon>feereport2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="feesre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="feesre.Designer.cs">
+      <DependentUpon>feesre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="feesreport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>feesreport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.cs">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6.Designer.cs">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form7.Designer.cs">
+      <DependentUpon>Form7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HOSTEL__MANAGEMENT_SYSTEMDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HOSTEL__MANAGEMENT_SYSTEMDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="list1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="list1.Designer.cs">
+      <DependentUpon>list1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="list2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="list2.Designer.cs">
+      <DependentUpon>list2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="list3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="list3.Designer.cs">
+      <DependentUpon>list3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="list4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="list4.Designer.cs">
+      <DependentUpon>list4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mian.Designer.cs">
+      <DependentUpon>Mian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="outgoingre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="outgoingre.Designer.cs">
+      <DependentUpon>outgoingre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="outgoing_report.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>outgoing_report.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="roomre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="roomre.Designer.cs">
+      <DependentUpon>roomre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="roomreport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>roomreport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="addmission report.resx">
+      <DependentUpon>addmission report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addmission.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>addmission.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admissionreport.resx">
+      <DependentUpon>Admissionreport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="feeReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>feeReport1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="feereport2.resx">
+      <DependentUpon>feereport2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="feesre.resx">
+      <DependentUpon>feesre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="feesreport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>feesreport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6.resx">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form7.resx">
+      <DependentUpon>Form7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="list1.resx">
+      <DependentUpon>list1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="list2.resx">
+      <DependentUpon>list2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="list3.resx">
+      <DependentUpon>list3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="list4.resx">
+      <DependentUpon>list4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mian.resx">
+      <DependentUpon>Mian.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="outgoingre.resx">
+      <DependentUpon>outgoingre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="outgoing_report.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>outgoing_report.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="roomre.resx">
+      <DependentUpon>roomre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="roomreport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>roomreport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="HOSTEL__MANAGEMENT_SYSTEMDataSet.xsc">
+      <DependentUpon>HOSTEL__MANAGEMENT_SYSTEMDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="HOSTEL__MANAGEMENT_SYSTEMDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HOSTEL__MANAGEMENT_SYSTEMDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HOSTEL__MANAGEMENT_SYSTEMDataSet.xss">
+      <DependentUpon>HOSTEL__MANAGEMENT_SYSTEMDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1__BOjZyp_NTHd_VYJiN1xpg.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="HOSTEL  MANAGEMENT SYSTEM.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\dipali1.jpg" />
+    <None Include="Resources\darshan2.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

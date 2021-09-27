@@ -1,0 +1,56 @@
+D:\Hostal managemnt\Hostal managemnt\bin\Debug\Hostal managemnt.exe.config
+D:\Hostal managemnt\Hostal managemnt\bin\Debug\Hostal managemnt.exe
+D:\Hostal managemnt\Hostal managemnt\bin\Debug\Hostal managemnt.pdb
+D:\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal managemnt.csprojResolveAssemblyReference.cache
+D:\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.Form1.resources
+D:\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.Mian.resources
+D:\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.Properties.Resources.resources
+D:\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal managemnt.csproj.GenerateResource.Cache
+D:\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal managemnt.exe
+D:\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal managemnt.pdb
+D:\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.Form2.resources
+D:\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.Form3.resources
+D:\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.Form4.resources
+D:\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.Form5.resources
+D:\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.Form6.resources
+D:\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.list1.resources
+D:\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.list3.resources
+D:\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.list2.resources
+D:\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.list4.resources
+D:\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.Form7.resources
+D:\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.Admissionreport.resources
+D:\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.addmission_report.resources
+D:\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.feereport2.resources
+D:\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.outgoingre.resources
+D:\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.feesre.resources
+D:\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.roomre.resources
+E:\All SP Data\Hostal managemnt\Hostal managemnt\bin\Debug\Hostal managemnt.exe.config
+E:\All SP Data\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal managemnt.exe
+E:\All SP Data\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal managemnt.pdb
+E:\All SP Data\Hostal managemnt\Hostal managemnt\bin\Debug\Hostal managemnt.exe
+E:\All SP Data\Hostal managemnt\Hostal managemnt\bin\Debug\Hostal managemnt.pdb
+E:\All SP Data\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal managemnt.csprojResolveAssemblyReference.cache
+E:\All SP Data\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.addmission_report.resources
+E:\All SP Data\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.Admissionreport.resources
+E:\All SP Data\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.feereport2.resources
+E:\All SP Data\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.feesre.resources
+E:\All SP Data\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.Form1.resources
+E:\All SP Data\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.Form2.resources
+E:\All SP Data\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.Form3.resources
+E:\All SP Data\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.Form4.resources
+E:\All SP Data\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.Form5.resources
+E:\All SP Data\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.Form6.resources
+E:\All SP Data\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.Form7.resources
+E:\All SP Data\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.list1.resources
+E:\All SP Data\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.list2.resources
+E:\All SP Data\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.list3.resources
+E:\All SP Data\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.list4.resources
+E:\All SP Data\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.Mian.resources
+E:\All SP Data\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.outgoingre.resources
+E:\All SP Data\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.Properties.Resources.resources
+E:\All SP Data\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal_managemnt.roomre.resources
+E:\All SP Data\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal managemnt.csproj.GenerateResource.Cache
+D:\Hostal managemnt\Hostal managemnt\bin\Debug\HOSTEL  MANAGEMENT SYSTEM.mdb
+D:\pendrive\Comlete Project\Hostal managemnt\Hostal managemnt\bin\Debug\Hostal managemnt.exe.config
+D:\pendrive\Comlete Project\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal managemnt.exe
+D:\pendrive\Comlete Project\Hostal managemnt\Hostal managemnt\obj\Debug\Hostal managemnt.pdb

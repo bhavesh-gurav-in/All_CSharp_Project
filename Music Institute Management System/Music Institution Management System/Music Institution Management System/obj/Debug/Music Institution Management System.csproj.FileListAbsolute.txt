@@ -1,0 +1,94 @@
+D:\darshansonawane\Music Institution Management System\Music Institution Management System\bin\Debug\Music Institution Management System.exe.config
+D:\darshansonawane\Music Institution Management System\Music Institution Management System\bin\Debug\Database.mdb
+D:\darshansonawane\Music Institution Management System\Music Institution Management System\bin\Debug\Music Institution Management System.exe
+D:\darshansonawane\Music Institution Management System\Music Institution Management System\bin\Debug\Music Institution Management System.pdb
+D:\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music Institution Management System.csprojResolveAssemblyReference.cache
+D:\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.Form1.resources
+D:\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.Main.resources
+D:\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.Properties.Resources.resources
+D:\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music Institution Management System.csproj.GenerateResource.Cache
+D:\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music Institution Management System.exe
+D:\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music Institution Management System.pdb
+D:\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.student.resources
+D:\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.attendance.resources
+D:\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.attendanceview.resources
+D:\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.addteacher.resources
+D:\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.teacherattend.resources
+D:\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.teacherattendview.resources
+D:\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.salarydetails.resources
+D:\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.fees.resources
+D:\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.account.resources
+D:\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.changepassword.resources
+D:\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.feesreport.resources
+D:\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.salaryreport.resources
+D:\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.studreport.resources
+D:\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.teachreport.resources
+G:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\bin\Debug\Music Institution Management System.exe.config
+G:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music Institution Management System.exe
+H:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\bin\Debug\Music Institution Management System.exe.config
+H:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music Institution Management System.exe
+H:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music Institution Management System.csprojResolveAssemblyReference.cache
+H:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.account.resources
+H:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.addteacher.resources
+H:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.attendance.resources
+H:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.attendanceview.resources
+H:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.changepassword.resources
+H:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.fees.resources
+H:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.feesreport.resources
+H:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.Form1.resources
+H:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.Main.resources
+H:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.Properties.Resources.resources
+H:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.salarydetails.resources
+H:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.salaryreport.resources
+H:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.student.resources
+H:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.studreport.resources
+H:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.teacherattend.resources
+H:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.teacherattendview.resources
+H:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.teachreport.resources
+H:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music Institution Management System.csproj.GenerateResource.Cache
+D:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\bin\Debug\Music Institution Management System.exe.config
+D:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music Institution Management System.exe
+D:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music Institution Management System.csprojResolveAssemblyReference.cache
+D:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.account.resources
+D:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.addteacher.resources
+D:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.attendance.resources
+D:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.attendanceview.resources
+D:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.changepassword.resources
+D:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.fees.resources
+D:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.feesreport.resources
+D:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.Form1.resources
+D:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.Main.resources
+D:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.Properties.Resources.resources
+D:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.salarydetails.resources
+D:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.salaryreport.resources
+D:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.student.resources
+D:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.studreport.resources
+D:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.teacherattend.resources
+D:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.teacherattendview.resources
+D:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.teachreport.resources
+D:\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music Institution Management System.csproj.GenerateResource.Cache
+D:\pendrive\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\bin\Debug\Music Institution Management System.exe.config
+D:\pendrive\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music Institution Management System.exe
+D:\pendrive\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music Institution Management System.csprojResolveAssemblyReference.cache
+D:\pendrive\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.account.resources
+D:\pendrive\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.addteacher.resources
+D:\pendrive\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.attendance.resources
+D:\pendrive\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.attendanceview.resources
+D:\pendrive\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.changepassword.resources
+D:\pendrive\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.fees.resources
+D:\pendrive\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.feesreport.resources
+D:\pendrive\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.Form1.resources
+D:\pendrive\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.Main.resources
+D:\pendrive\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.Properties.Resources.resources
+D:\pendrive\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.salarydetails.resources
+D:\pendrive\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.salaryreport.resources
+D:\pendrive\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.student.resources
+D:\pendrive\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.studreport.resources
+D:\pendrive\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.teacherattend.resources
+D:\pendrive\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.teacherattendview.resources
+D:\pendrive\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music_Institution_Management_System.teachreport.resources
+D:\pendrive\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music Institution Management System.csproj.GenerateResource.Cache
+D:\pendrive\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\bin\Debug\Database.mdb
+D:\pendrive\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\bin\Debug\Music Institution Management System.exe
+D:\pendrive\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\bin\Debug\Music Institution Management System.pdb
+D:\pendrive\Comlete Project\darshansonawane\Music Institution Management System\Music Institution Management System\obj\Debug\Music Institution Management System.pdb
